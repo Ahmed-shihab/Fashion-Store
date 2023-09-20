@@ -36,3 +36,5 @@ Stack trace:
 
 2023-09-20T18:24:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Fashion-Store\wp-includes\Requests\src\Transport\Curl.php on line 510
 
+2023-09-20T18:26:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Fashion-Store\wp-includes\Requests\src\Transport\Curl.php on line 534
+
